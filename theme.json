@@ -465,31 +465,6 @@
     "blur": 0.3,
     "url": ""
   },
-
-  "plus": {
-    "version": "0",
-    "mentionLineColor": "#008cff",
-    "customOverlays": true,
-    "icons": {
-
-      "StatusOnline": "#008cff",
-      "StatusIdle": "#ffaa00",
-      "StatusDND": "#ff4444",
-      "StatusOffline": "#444444",
-
-      "ic_send": "#ffffff",
-      "ic_send__overlay": "#008cff",
-
-      "search": "#008cff",
-
-      "SettingsIcon": "#ffffff",
-      "PencilIcon": "#ffffff",
-      "MoreHorizontalIcon": "#ffffff",
-
-      "QuestsIcon": "#ffffff",
-      "ShopIcon": "#ffffff"
-    }
-  },
   "plus": {
     "version": "0",
     "mentionLineColor": "#008cff",
